@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anaramanli
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML and c#
+- 🌱 I’m currently learning HTML and Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with gmail
 
