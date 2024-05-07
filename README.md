@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anaramanli
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML and Css
+- 🌱 I’m currently learning C# and Asp .Net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with gmail
 - This is my mini E-commerce site :https://cawearaz.netlify.app/
